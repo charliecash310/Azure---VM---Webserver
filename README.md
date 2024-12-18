@@ -12,4 +12,4 @@ Azure - Create a Virtual Machine and Deploy a Web Server
 - Install Nextcloud by connecting via SSH using Bastion\
 - Publish an IP
 - Create a DNS label
-</br>
+<br />
