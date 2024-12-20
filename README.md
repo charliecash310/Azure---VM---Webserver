@@ -19,7 +19,7 @@ Azure - Create a Virtual Machine and Deploy a Web Server
 
 - Create a Resource Group
 
-<img src="https://imgur.com/a/SuTA3lV">
+<img src="https://i.imgur.com/WsRCtCR.png">
   
 - Create a Virtual Network and a subnet
 - Protect a subnet using a Network Security Group
