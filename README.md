@@ -18,6 +18,9 @@ Azure - Create a Virtual Machine and Deploy a Web Server
 <br/>
 
 - Create a Resource Group
+
+<img src="">
+  
 - Create a Virtual Network and a subnet
 - Protect a subnet using a Network Security Group
 - Deploy Bastion to connect to a Virtual Machine
