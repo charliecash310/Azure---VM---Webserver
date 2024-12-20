@@ -52,3 +52,5 @@ Azure - Create a Virtual Machine and Deploy a Web Server
 <br />
 
 ## Conclusion
+
+<img src="https://d15cw65ipctsrr.cloudfront.net/ac/5ca9597ce94876bb68a6713fedd753/azurevmtask7.png">
