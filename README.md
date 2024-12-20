@@ -23,14 +23,31 @@ Azure - Create a Virtual Machine and Deploy a Web Server
   
 - Create a Virtual Network and a subnet
 
-<img src="https://i.imgur.com/WsRCtCR.png">
+<img src="https://i.imgur.com/LuHhr21.png">
   
 - Protect a subnet using a Network Security Group
+
+<img src="https://i.imgur.com/TDccB3l.png">
+
 - Deploy Bastion to connect to a Virtual Machine
+
+<img src="https://i.imgur.com/WiH7Rx2.png">
+  
 - Create an Ubuntu Server Virtual Machine
-- Install Nextcloud by connecting via SSH using Bastion\
+
+<img src="https://i.imgur.com/hTpltO4.png">
+
+- Install Nextcloud by connecting via SSH using Bastion
+
+<img src="https://i.imgur.com/M1YVTMK.png">
+  
 - Publish an IP
+
+<img src="https://i.imgur.com/JtDWqcj.png">
+  
 - Create a DNS label
+
+<img src="https://i.imgur.com/wDgCb1L.png">
   
 <br />
 
