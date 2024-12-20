@@ -29,5 +29,3 @@ Azure - Create a Virtual Machine and Deploy a Web Server
 <br />
 
 ## Conclusion
-
-[Summarize the process and benefits of creating a VPC]
